@@ -1,5 +1,3 @@
-*in my protocol i said I would also look at frequency of intervening. i would need to see what the average number of events each person has? if they recevied multiple intervention attempts
-
 *merging all of the records of interventions offered in long format
 cd "P:\OX57"
 use "Data\population 1\OX57_gp_clinical_events_14179", clear
