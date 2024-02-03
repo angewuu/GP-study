@@ -1,5 +1,3 @@
-*analysis plan created with Rafael :) 
-
 *To start we are going to look at the impact of intervention offered on smoking cessation at year 1 and then at year 5. What that means is that I need to I need to create a binary yes no for year 1 abstinence and year 5 abstinence. 
 cd "P:\OX57"
 use "Angela's coding\Stroke_Analysis.dta", clear
